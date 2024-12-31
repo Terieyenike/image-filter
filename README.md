@@ -22,7 +22,7 @@ To get started with the project, follow these steps:
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/image-filter.git
+git clone https://github.com/terieyenike/image-filter.git
 cd image-filter
 ```
 
