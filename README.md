@@ -1,6 +1,6 @@
 # Image Filter
 
-A Vue 3 application that allows users to apply various filters to images in real-time.
+A Vue application that allows users to apply various filters to images in real-time.
 
 ![applied filter with courage adams and teri](image.png)
 
